@@ -1,7 +1,7 @@
-# Serverless REST API in Java/Maven using DynamoDB
+# API REST sem servidor em Java / Maven usando DynamoDB
 
 
-## Install Pre-requisites
+## Pre requisitos da instalação
 
 * `node` e `npm`
 * Instalar a JDK e não a Java JRE da [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
@@ -9,7 +9,7 @@
 * [Apache Maven](https://maven.apache.org/). After [downloading](https://maven.apache.org/download.html) e [installing](https://maven.apache.org/install.html) Apache Maven, adicione `apache-maven-x.x.x` ao `PATH` do windows.
 
 
-Testa Java instalação:
+Testar instalação do java:
 
 ```
 $ java --version
@@ -19,7 +19,7 @@ Java(TM) SE Runtime Environment 18.3 (build 10+46)
 Java HotSpot(TM) 64-Bit Server VM 18.3 (build 10+46, mixed mode)
 ```
 
-Testar Maven instalação:
+Testar instalação Maven :
 
 ```
 $ mvn -v
